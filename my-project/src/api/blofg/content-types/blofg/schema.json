@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "blofgs",
+  "info": {
+    "singularName": "blofg",
+    "pluralName": "blofgs",
+    "displayName": "blofg"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
